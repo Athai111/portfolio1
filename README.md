@@ -18,6 +18,7 @@ This repository contains the source code for my **personal portfolio website**, 
 
 * **HTML5**
 * **CSS3**
+* **JS**
 
 ## ✨ Features
 
