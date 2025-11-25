@@ -27,14 +27,14 @@ This repository contains the source code for my **personal portfolio website**, 
 
 ## 🚀 Live Demo
 
-athaimitra.netlify.app
+https://athaimitra.netlify.app
 
 
 ## 📬 Contact
 
 Feel free to connect with me for opportunities or collaboration!
 📧 Email: athaimi113@gmail.com
-🔗 LinkedIn: linkedin.com/athai-mitra
+🔗 LinkedIn: https://linkedin.com/athai-mitra
 
 ---
 
