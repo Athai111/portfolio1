@@ -34,7 +34,7 @@ https://athaimitra.netlify.app
 
 Feel free to connect with me for opportunities or collaboration!
 📧 Email: athaimi113@gmail.com
-🔗 LinkedIn: https://linkedin.com/athai-mitra
+🔗 LinkedIn: https://www.linkedin.com/in/athai-mitra
 
 ---
 
